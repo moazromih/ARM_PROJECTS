@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rcc_interface.h": "c",
+        "gpio_interface.h": "c",
+        "std_types.h": "c"
+    }
+}

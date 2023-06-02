@@ -1,0 +1,11 @@
+20:14:36 **** Incremental Build of configuration Debug for project A7medMo7sen ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "A7medMo7sen.elf"
+   text	   data	    bss	    dec	    hex	filename
+  48217	    164	    424	  48805	   bea5	A7medMo7sen.elf
+Finished building: A7medMo7sen.siz
+ 
+
+20:14:37 Build Finished (took 710ms)
+

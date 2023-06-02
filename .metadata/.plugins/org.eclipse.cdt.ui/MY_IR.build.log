@@ -1,0 +1,11 @@
+18:00:59 **** Incremental Build of configuration Debug for project MY_IR ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "MY_IR.elf"
+   text	   data	    bss	    dec	    hex	filename
+   9131	    160	    696	   9987	   2703	MY_IR.elf
+Finished building: MY_IR.siz
+ 
+
+18:01:00 Build Finished (took 721ms)
+

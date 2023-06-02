@@ -1,0 +1,11 @@
+19:09:25 **** Incremental Build of configuration Debug for project 7SegShift ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "7SegShift.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8389	    160	    424	   8973	   230d	7SegShift.elf
+Finished building: 7SegShift.siz
+ 
+
+19:09:25 Build Finished (took 372ms)
+

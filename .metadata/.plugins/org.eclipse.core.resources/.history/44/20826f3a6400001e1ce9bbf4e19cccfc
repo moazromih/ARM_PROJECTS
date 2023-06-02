@@ -1,0 +1,29 @@
+#include "STD_TYPES.h"
+#include "BIT_MATH.h"
+
+#include "RCC_interface.h"
+#include "GPIO_interface.h"
+#include "STK_interface.h"
+#include "ShiftRegister_Interface.h"
+
+
+const u8 SegValues[10] = {0b1111110,0b0110000,0b1101101,0b1111001,0b0110011,0b1011011,0b1011111,0b1110000,0b1111111,0b1111011};
+
+void main(void)
+{
+    MRCC_voidInit();
+    MRCC_voidEnablePeripheralClock(RCC_AHB1,GPIOA_ID);
+    MSTK_voidInit();
+    HShiftRegister_voidInit();
+    while (1)
+    {
+        s8 main_s8OuterLoopCounter;
+        s8 main_s8InnerLoopCounter;
+        for(main_s8InnerLoopCounter = 9; main_s8InnerLoopCounter >= 0; main_s8InnerLoopCounter--)
+        {
+            HShiftRegister_voidSend1ByteDataLow(SegValues[main_s8InnerLoopCounter]);
+            MSTK_voidSetBusyWaitus(200000);
+        }
+    }
+
+}

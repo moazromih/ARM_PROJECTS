@@ -1,0 +1,11 @@
+17:35:15 **** Build of configuration Debug for project 7Segment ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "7Segment.elf"
+   text	   data	    bss	    dec	    hex	filename
+   9835	    160	    416	  10411	   28ab	7Segment.elf
+Finished building: 7Segment.siz
+ 
+
+17:35:15 Build Finished (took 440ms)
+

@@ -1,0 +1,11 @@
+19:44:56 **** Incremental Build of configuration Debug for project Z3bola ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "Z3bola.elf"
+   text	   data	    bss	    dec	    hex	filename
+   9619	    164	    696	  10479	   28ef	Z3bola.elf
+Finished building: Z3bola.siz
+ 
+
+19:44:56 Build Finished (took 514ms)
+

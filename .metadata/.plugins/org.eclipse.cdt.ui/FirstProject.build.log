@@ -1,0 +1,11 @@
+04:09:45 **** Incremental Build of configuration Debug for project FirstProject ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "FirstProject.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8291	    160	    420	   8871	   22a7	FirstProject.elf
+Finished building: FirstProject.siz
+ 
+
+04:09:46 Build Finished (took 525ms)
+

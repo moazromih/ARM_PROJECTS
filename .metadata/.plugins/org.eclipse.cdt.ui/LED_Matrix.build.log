@@ -1,0 +1,11 @@
+08:08:43 **** Incremental Build of configuration Debug for project LED_MATRIX ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "LED_MATRIX.elf"
+   text	   data	    bss	    dec	    hex	filename
+   8371	    160	    424	   8955	   22fb	LED_MATRIX.elf
+Finished building: LED_MATRIX.siz
+ 
+
+08:08:43 Build Finished (took 375ms)
+

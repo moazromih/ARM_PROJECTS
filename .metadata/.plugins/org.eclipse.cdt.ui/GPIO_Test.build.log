@@ -1,0 +1,11 @@
+11:42:42 **** Incremental Build of configuration Debug for project GPIO_Test ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "GPIO_Test.elf"
+   text	   data	    bss	    dec	    hex	filename
+   7963	    160	    420	   8543	   215f	GPIO_Test.elf
+Finished building: GPIO_Test.siz
+ 
+
+11:42:42 Build Finished (took 433ms)
+
