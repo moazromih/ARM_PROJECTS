@@ -1,8 +1,8 @@
-20:14:03 **** Clean-only build of configuration Debug for project A7medMo7sen ****
+08:27:47 **** Clean-only build of configuration Debug for project TFT ****
 make clean 
-rm -rf  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/DAC_program.o ./src/GPIO_program.o ./src/RCC_program.o ./src/STK_program.o ./src/Song.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o  A7medMo7sen.hex  A7medMo7sen.siz  ./system/src/stm32f4-hal/stm32f4xx_hal.d ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.d ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.d ./system/src/stm32f4-hal/stm32f4xx_hal_flash.d ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.d ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.d ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.d ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.d  ./system/src/newlib/_exit.d ./system/src/newlib/_sbrk.d ./system/src/newlib/_startup.d ./system/src/newlib/_syscalls.d ./system/src/newlib/assert.d  ./system/src/diag/Trace.d ./system/src/diag/trace_impl.d  ./system/src/cortexm/_initialize_hardware.d ./system/src/cortexm/_reset_hardware.d ./system/src/cortexm/exception_handlers.d  ./system/src/cmsis/system_stm32f4xx.d ./system/src/cmsis/vectors_stm32f401xc.d  ./src/DAC_program.d ./src/GPIO_program.d ./src/RCC_program.d ./src/STK_program.d ./src/Song.d ./src/_initialize_hardware.d ./src/stm32f4xx_hal_msp.d  ./system/src/newlib/_cxx.d  A7medMo7sen.elf
+rm -rf  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o  TFT.hex  TFT.siz  ./system/src/stm32f4-hal/stm32f4xx_hal.d ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.d ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.d ./system/src/stm32f4-hal/stm32f4xx_hal_flash.d ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.d ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.d ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.d ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.d  ./system/src/newlib/_exit.d ./system/src/newlib/_sbrk.d ./system/src/newlib/_startup.d ./system/src/newlib/_syscalls.d ./system/src/newlib/assert.d  ./system/src/diag/Trace.d ./system/src/diag/trace_impl.d  ./system/src/cortexm/_initialize_hardware.d ./system/src/cortexm/_reset_hardware.d ./system/src/cortexm/exception_handlers.d  ./system/src/cmsis/system_stm32f4xx.d ./system/src/cmsis/vectors_stm32f401xc.d  ./src/GPIO_program.d ./src/RCC_program.d ./src/SPI_program.d ./src/STK_program.d ./src/TFT.d ./src/TFT_program.d ./src/_initialize_hardware.d ./src/stm32f4xx_hal_msp.d  ./system/src/newlib/_cxx.d  TFT.elf
  
-20:14:08 **** Build of configuration Debug for project A7medMo7sen ****
+08:27:49 **** Build of configuration Debug for project TFT ****
 make all 
 Building file: ../system/src/stm32f4-hal/stm32f4xx_hal.c
 Invoking: Cross ARM GNU C Compiler
@@ -109,11 +109,6 @@ Invoking: Cross ARM GNU C Compiler
 arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"system/src/cmsis/vectors_stm32f401xc.d" -MT"system/src/cmsis/vectors_stm32f401xc.o" -c -o "system/src/cmsis/vectors_stm32f401xc.o" "../system/src/cmsis/vectors_stm32f401xc.c"
 Finished building: ../system/src/cmsis/vectors_stm32f401xc.c
  
-Building file: ../src/DAC_program.c
-Invoking: Cross ARM GNU C Compiler
-arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/DAC_program.d" -MT"src/DAC_program.o" -c -o "src/DAC_program.o" "../src/DAC_program.c"
-Finished building: ../src/DAC_program.c
- 
 Building file: ../src/GPIO_program.c
 Invoking: Cross ARM GNU C Compiler
 arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/GPIO_program.d" -MT"src/GPIO_program.o" -c -o "src/GPIO_program.o" "../src/GPIO_program.c"
@@ -128,6 +123,28 @@ Invoking: Cross ARM GNU C Compiler
 arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/RCC_program.d" -MT"src/RCC_program.o" -c -o "src/RCC_program.o" "../src/RCC_program.c"
 Finished building: ../src/RCC_program.c
  
+Building file: ../src/SPI_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/SPI_program.d" -MT"src/SPI_program.o" -c -o "src/SPI_program.o" "../src/SPI_program.c"
+../src/SPI_program.c: In function 'MSPI1_voidInit':
+../src/SPI_program.c:29:2: warning: implicit declaration of function 'MGPIO_voidSetPinSpeed'; did you mean 'MGPIO_voidSetPinMode'? [-Wimplicit-function-declaration]
+  MGPIO_voidSetPinSpeed(MSPI1_MOSI_PORTPIN, LOW_SPEED);
+  ^~~~~~~~~~~~~~~~~~~~~
+  MGPIO_voidSetPinMode
+../src/SPI_program.c:32:2: warning: implicit declaration of function 'MGPIO_voidSetAlternativeFunction'; did you mean 'MGPIO_voidSetPinAlternateFunction'? [-Wimplicit-function-declaration]
+  MGPIO_voidSetAlternativeFunction(MSPI1_MOSI_PORTPIN, 5);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  MGPIO_voidSetPinAlternateFunction
+../src/SPI_program.c:36:2: warning: implicit declaration of function 'MGPIO_voidSetPinPullUPDown'; did you mean 'MGPIO_voidSetPinValue'? [-Wimplicit-function-declaration]
+  MGPIO_voidSetPinPullUPDown(MSPI1_NSS_PORTPIN, PULLUP);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~
+  MGPIO_voidSetPinValue
+../src/SPI_program.c: In function 'MSPI_u8TrancieveSynchronous':
+../src/SPI_program.c:43:53: warning: unused parameter 'Copy_pu8ReceivedData' [-Wunused-parameter]
+ u8 MSPI_u8TrancieveSynchronous(u8 Copy_u8Data, u8 * Copy_pu8ReceivedData)
+                                                     ^~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/SPI_program.c
+ 
 Building file: ../src/STK_program.c
 Invoking: Cross ARM GNU C Compiler
 arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/STK_program.d" -MT"src/STK_program.o" -c -o "src/STK_program.o" "../src/STK_program.c"
@@ -137,10 +154,39 @@ arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=
         ^~~~~~~~~~~~~~~~~~~~
 Finished building: ../src/STK_program.c
  
-Building file: ../src/Song.c
+Building file: ../src/TFT.c
 Invoking: Cross ARM GNU C Compiler
-arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/Song.d" -MT"src/Song.o" -c -o "src/Song.o" "../src/Song.c"
-Finished building: ../src/Song.c
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT.d" -MT"src/TFT.o" -c -o "src/TFT.o" "../src/TFT.c"
+../src/TFT.c: In function 'main':
+../src/TFT.c:20:31: warning: passing argument 1 of 'HTFT_voidDisplayImage' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+         HTFT_voidDisplayImage(image_data_download);
+                               ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/TFT.c:9:0:
+../include/TFT_interface.h:20:10: note: expected 'u16 * {aka short unsigned int *}' but argument is of type 'const u16 * {aka const short unsigned int *}'
+     void HTFT_voidDisplayImage(u16 * Copy_pu16Image);
+          ^~~~~~~~~~~~~~~~~~~~~
+../src/TFT.c: At top level:
+../include/TFT_interface.h:18:17: warning: 'HTFT_voidSendCommand' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendCommand(u8 Copy_u8Command);
+                 ^~~~~~~~~~~~~~~~~~~~
+../include/TFT_interface.h:19:17: warning: 'HTFT_voidSendData' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendData(u8 Copy_u8Data);
+                 ^~~~~~~~~~~~~~~~~
+Finished building: ../src/TFT.c
+ 
+Building file: ../src/TFT_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT_program.d" -MT"src/TFT_program.o" -c -o "src/TFT_program.o" "../src/TFT_program.c"
+../src/TFT_program.c: In function 'HTFT_voidInit':
+../src/TFT_program.c:31:5: warning: implicit declaration of function 'MGPIO_voidSetPinSpeed'; did you mean 'MGPIO_voidSetPinMode'? [-Wimplicit-function-declaration]
+     MGPIO_voidSetPinSpeed(HTFT_A0_PORT_PIN, LOW_SPEED);
+     ^~~~~~~~~~~~~~~~~~~~~
+     MGPIO_voidSetPinMode
+../src/TFT_program.c:37:5: warning: implicit declaration of function 'MSTK_voidSetBusyWait'; did you mean 'MSTK_voidSetBusyWaitus'? [-Wimplicit-function-declaration]
+     MSTK_voidSetBusyWait(100);
+     ^~~~~~~~~~~~~~~~~~~~
+     MSTK_voidSetBusyWaitus
+Finished building: ../src/TFT_program.c
  
 Building file: ../src/_initialize_hardware.c
 Invoking: Cross ARM GNU C Compiler
@@ -156,26 +202,313 @@ Invoking: Cross ARM GNU C Compiler
 arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -Wno-missing-prototypes -Wno-missing-declarations -MMD -MP -MF"src/stm32f4xx_hal_msp.d" -MT"src/stm32f4xx_hal_msp.d" -c -o "src/stm32f4xx_hal_msp.o" "../src/stm32f4xx_hal_msp.c"
 Finished building: ../src/stm32f4xx_hal_msp.c
  
-Building target: A7medMo7sen.elf
+Building target: TFT.elf
 Invoking: Cross ARM GNU C++ Linker
-arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"A7medMo7sen.map" --specs=nano.specs -o "A7medMo7sen.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/DAC_program.o ./src/GPIO_program.o ./src/RCC_program.o ./src/STK_program.o ./src/Song.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
-Finished building target: A7medMo7sen.elf
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/SPI_program.o: In function `MSPI1_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:29: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:30: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:32: undefined reference to `MGPIO_voidSetAlternativeFunction'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:33: undefined reference to `MGPIO_voidSetAlternativeFunction'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:36: undefined reference to `MGPIO_voidSetPinPullUPDown'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:37: undefined reference to `MGPIO_voidSetAlternativeFunction'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:30:09 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/SPI_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/SPI_program.d" -MT"src/SPI_program.o" -c -o "src/SPI_program.o" "../src/SPI_program.c"
+../src/SPI_program.c: In function 'MSPI1_voidInit':
+../src/SPI_program.c:32:2: warning: implicit declaration of function 'MGPIO_voidSetAlternativeFunction'; did you mean 'MGPIO_voidSetPinAlternateFunction'? [-Wimplicit-function-declaration]
+  MGPIO_voidSetAlternativeFunction(MSPI1_MOSI_PORTPIN, 5);
+  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  MGPIO_voidSetPinAlternateFunction
+../src/SPI_program.c: In function 'MSPI_u8TrancieveSynchronous':
+../src/SPI_program.c:43:53: warning: unused parameter 'Copy_pu8ReceivedData' [-Wunused-parameter]
+ u8 MSPI_u8TrancieveSynchronous(u8 Copy_u8Data, u8 * Copy_pu8ReceivedData)
+                                                     ^~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/SPI_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/SPI_program.o: In function `MSPI1_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:32: undefined reference to `MGPIO_voidSetAlternativeFunction'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:33: undefined reference to `MGPIO_voidSetAlternativeFunction'
+E:\ITI-Course\ARM\TFT\Debug/../src/SPI_program.c:37: undefined reference to `MGPIO_voidSetAlternativeFunction'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:31:00 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/SPI_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/SPI_program.d" -MT"src/SPI_program.o" -c -o "src/SPI_program.o" "../src/SPI_program.c"
+../src/SPI_program.c: In function 'MSPI_u8TrancieveSynchronous':
+../src/SPI_program.c:43:53: warning: unused parameter 'Copy_pu8ReceivedData' [-Wunused-parameter]
+ u8 MSPI_u8TrancieveSynchronous(u8 Copy_u8Data, u8 * Copy_pu8ReceivedData)
+                                                     ^~~~~~~~~~~~~~~~~~~~
+Finished building: ../src/SPI_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+Finished building target: TFT.elf
  
 Invoking: Cross ARM GNU Create Flash Image
-arm-none-eabi-objcopy -O ihex "A7medMo7sen.elf"  "A7medMo7sen.hex"
-Finished building: A7medMo7sen.hex
+arm-none-eabi-objcopy -O ihex "TFT.elf"  "TFT.hex"
+Finished building: TFT.hex
  
 Invoking: Cross ARM GNU Print Size
-arm-none-eabi-size --format=berkeley "A7medMo7sen.elf"
+arm-none-eabi-size --format=berkeley "TFT.elf"
    text	   data	    bss	    dec	    hex	filename
-  48217	    164	    424	  48805	   bea5	A7medMo7sen.elf
-Finished building: A7medMo7sen.siz
+  49259	    160	    424	  49843	   c2b3	TFT.elf
+Finished building: TFT.siz
  
-20:14:36 **** Incremental Build of configuration Debug for project A7medMo7sen ****
+08:31:45 **** Incremental Build of configuration Debug for project TFT ****
 make all 
 Invoking: Cross ARM GNU Print Size
-arm-none-eabi-size --format=berkeley "A7medMo7sen.elf"
+arm-none-eabi-size --format=berkeley "TFT.elf"
    text	   data	    bss	    dec	    hex	filename
-  48217	    164	    424	  48805	   bea5	A7medMo7sen.elf
-Finished building: A7medMo7sen.siz
+  49259	    160	    424	  49843	   c2b3	TFT.elf
+Finished building: TFT.siz
+ 
+08:33:13 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/TFT.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT.d" -MT"src/TFT.o" -c -o "src/TFT.o" "../src/TFT.c"
+../src/TFT.c: In function 'main':
+../src/TFT.c:22:31: warning: passing argument 1 of 'HTFT_voidDisplayImage' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+         HTFT_voidDisplayImage(image_data_download);
+                               ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/TFT.c:9:0:
+../include/TFT_interface.h:20:10: note: expected 'u16 * {aka short unsigned int *}' but argument is of type 'const u16 * {aka const short unsigned int *}'
+     void HTFT_voidDisplayImage(u16 * Copy_pu16Image);
+          ^~~~~~~~~~~~~~~~~~~~~
+../src/TFT.c: At top level:
+../include/TFT_interface.h:18:17: warning: 'HTFT_voidSendCommand' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendCommand(u8 Copy_u8Command);
+                 ^~~~~~~~~~~~~~~~~~~~
+../include/TFT_interface.h:19:17: warning: 'HTFT_voidSendData' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendData(u8 Copy_u8Data);
+                 ^~~~~~~~~~~~~~~~~
+Finished building: ../src/TFT.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+Finished building target: TFT.elf
+ 
+Invoking: Cross ARM GNU Create Flash Image
+arm-none-eabi-objcopy -O ihex "TFT.elf"  "TFT.hex"
+Finished building: TFT.hex
+ 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49355	    160	    424	  49939	   c313	TFT.elf
+Finished building: TFT.siz
+ 
+08:33:16 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49355	    160	    424	  49939	   c313	TFT.elf
+Finished building: TFT.siz
+ 
+08:33:45 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/TFT.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT.d" -MT"src/TFT.o" -c -o "src/TFT.o" "../src/TFT.c"
+../src/TFT.c: In function 'main':
+../src/TFT.c:23:31: warning: passing argument 1 of 'HTFT_voidDisplayImage' discards 'const' qualifier from pointer target type [-Wdiscarded-qualifiers]
+         HTFT_voidDisplayImage(image_data_download);
+                               ^~~~~~~~~~~~~~~~~~~
+In file included from ../src/TFT.c:9:0:
+../include/TFT_interface.h:20:10: note: expected 'u16 * {aka short unsigned int *}' but argument is of type 'const u16 * {aka const short unsigned int *}'
+     void HTFT_voidDisplayImage(u16 * Copy_pu16Image);
+          ^~~~~~~~~~~~~~~~~~~~~
+../src/TFT.c: At top level:
+../include/TFT_interface.h:18:17: warning: 'HTFT_voidSendCommand' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendCommand(u8 Copy_u8Command);
+                 ^~~~~~~~~~~~~~~~~~~~
+../include/TFT_interface.h:19:17: warning: 'HTFT_voidSendData' declared 'static' but never defined [-Wunused-function]
+     static void HTFT_voidSendData(u8 Copy_u8Data);
+                 ^~~~~~~~~~~~~~~~~
+Finished building: ../src/TFT.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:31: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:33: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:39: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:41: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:43: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:45: undefined reference to `MSTK_voidSetBusyWait'
+./src/TFT_program.o:E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:48: more undefined references to `MSTK_voidSetBusyWait' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:33:48 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:31: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:33: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:39: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:41: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:43: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:45: undefined reference to `MSTK_voidSetBusyWait'
+./src/TFT_program.o:E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:48: more undefined references to `MSTK_voidSetBusyWait' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:33:55 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:31: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:33: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:39: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:41: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:43: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:45: undefined reference to `MSTK_voidSetBusyWait'
+./src/TFT_program.o:E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:48: more undefined references to `MSTK_voidSetBusyWait' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:34:01 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:31: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:33: undefined reference to `MGPIO_voidSetPinSpeed'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:39: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:41: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:43: undefined reference to `MSTK_voidSetBusyWait'
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:45: undefined reference to `MSTK_voidSetBusyWait'
+./src/TFT_program.o:E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:48: more undefined references to `MSTK_voidSetBusyWait' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:35:54 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/TFT_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT_program.d" -MT"src/TFT_program.o" -c -o "src/TFT_program.o" "../src/TFT_program.c"
+../src/TFT_program.c: In function 'HTFT_voidInit':
+../src/TFT_program.c:37:5: warning: implicit declaration of function 'MSTK_voidSetBusyWaitusus'; did you mean 'MSTK_voidSetBusyWaitus'? [-Wimplicit-function-declaration]
+     MSTK_voidSetBusyWaitusus(100);
+     ^~~~~~~~~~~~~~~~~~~~~~~~
+     MSTK_voidSetBusyWaitus
+Finished building: ../src/TFT_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWaitusus'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:36:25 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/TFT_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT_program.d" -MT"src/TFT_program.o" -c -o "src/TFT_program.o" "../src/TFT_program.c"
+../src/TFT_program.c: In function 'HTFT_voidInit':
+../src/TFT_program.c:37:5: warning: implicit declaration of function 'MSTK_voidSetBusyWaituus'; did you mean 'MSTK_voidSetBusyWaitus'? [-Wimplicit-function-declaration]
+     MSTK_voidSetBusyWaituus(100);
+     ^~~~~~~~~~~~~~~~~~~~~~~
+     MSTK_voidSetBusyWaitus
+Finished building: ../src/TFT_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+./src/TFT_program.o: In function `HTFT_voidInit':
+E:\ITI-Course\ARM\TFT\Debug/../src/TFT_program.c:37: undefined reference to `MSTK_voidSetBusyWaituus'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:64: TFT.elf] Error 1
+08:36:31 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/TFT_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/TFT_program.d" -MT"src/TFT_program.o" -c -o "src/TFT_program.o" "../src/TFT_program.c"
+Finished building: ../src/TFT_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+Finished building target: TFT.elf
+ 
+Invoking: Cross ARM GNU Create Flash Image
+arm-none-eabi-objcopy -O ihex "TFT.elf"  "TFT.hex"
+Finished building: TFT.hex
+ 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49595	    160	    424	  50179	   c403	TFT.elf
+Finished building: TFT.siz
+ 
+08:36:34 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49595	    160	    424	  50179	   c403	TFT.elf
+Finished building: TFT.siz
+ 
+08:36:37 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49595	    160	    424	  50179	   c403	TFT.elf
+Finished building: TFT.siz
+ 
+09:37:48 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Building file: ../src/GPIO_program.c
+Invoking: Cross ARM GNU C Compiler
+arm-none-eabi-gcc -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -DDEBUG -DUSE_FULL_ASSERT -DTRACE -DOS_USE_TRACE_SEMIHOSTING_DEBUG -DSTM32F401xC -DUSE_HAL_DRIVER -DHSE_VALUE=25000000 -I"../include" -I"../system/include" -I"../system/include/cmsis" -I"../system/include/stm32f4-hal" -std=gnu11 -MMD -MP -MF"src/GPIO_program.d" -MT"src/GPIO_program.o" -c -o "src/GPIO_program.o" "../src/GPIO_program.c"
+../src/GPIO_program.c: In function 'MGPIO_voidGetPinValue':
+../src/GPIO_program.c:176:12: warning: 'Local_u8ReturnValue' may be used uninitialized in this function [-Wmaybe-uninitialized]
+     return Local_u8ReturnValue;
+            ^~~~~~~~~~~~~~~~~~~
+Finished building: ../src/GPIO_program.c
+ 
+Building target: TFT.elf
+Invoking: Cross ARM GNU C++ Linker
+arm-none-eabi-g++ -mcpu=cortex-m4 -mthumb -mfloat-abi=soft -Og -fmessage-length=0 -fsigned-char -ffunction-sections -fdata-sections -ffreestanding -fno-move-loop-invariants -Wall -Wextra  -g3 -T mem.ld -T libs.ld -T sections.ld -nostartfiles -Xlinker --gc-sections -L"../ldscripts" -Wl,-Map,"TFT.map" --specs=nano.specs -o "TFT.elf"  ./system/src/stm32f4-hal/stm32f4xx_hal.o ./system/src/stm32f4-hal/stm32f4xx_hal_cortex.o ./system/src/stm32f4-hal/stm32f4xx_hal_dfsdm.o ./system/src/stm32f4-hal/stm32f4xx_hal_flash.o ./system/src/stm32f4-hal/stm32f4xx_hal_gpio.o ./system/src/stm32f4-hal/stm32f4xx_hal_iwdg.o ./system/src/stm32f4-hal/stm32f4xx_hal_pwr.o ./system/src/stm32f4-hal/stm32f4xx_hal_rcc.o  ./system/src/newlib/_cxx.o ./system/src/newlib/_exit.o ./system/src/newlib/_sbrk.o ./system/src/newlib/_startup.o ./system/src/newlib/_syscalls.o ./system/src/newlib/assert.o  ./system/src/diag/Trace.o ./system/src/diag/trace_impl.o  ./system/src/cortexm/_initialize_hardware.o ./system/src/cortexm/_reset_hardware.o ./system/src/cortexm/exception_handlers.o  ./system/src/cmsis/system_stm32f4xx.o ./system/src/cmsis/vectors_stm32f401xc.o  ./src/GPIO_program.o ./src/RCC_program.o ./src/SPI_program.o ./src/STK_program.o ./src/TFT.o ./src/TFT_program.o ./src/_initialize_hardware.o ./src/stm32f4xx_hal_msp.o   
+Finished building target: TFT.elf
+ 
+Invoking: Cross ARM GNU Create Flash Image
+arm-none-eabi-objcopy -O ihex "TFT.elf"  "TFT.hex"
+Finished building: TFT.hex
+ 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49595	    160	    424	  50179	   c403	TFT.elf
+Finished building: TFT.siz
+ 
+09:47:39 **** Incremental Build of configuration Debug for project TFT ****
+make all 
+Invoking: Cross ARM GNU Print Size
+arm-none-eabi-size --format=berkeley "TFT.elf"
+   text	   data	    bss	    dec	    hex	filename
+  49595	    160	    424	  50179	   c403	TFT.elf
+Finished building: TFT.siz
  
